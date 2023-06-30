@@ -1,15 +1,8 @@
-#### React Router Fix
+## DrinksEncyclopedia made with React and the cocktaildb.
+![image](https://github.com/Ericmohn/DrinksEncyclopedia/assets/68788167/e18c159d-0423-448d-9b3c-614c8be9d905)
 
-(Fix)[https://dev.to/dance2die/page-not-found-on-netlify-with-react-router-58mc]
 
-#### CRA Fix
+## How to install
+Download or mirror the repository and run "npm install" and "npm start" after.
 
-```
-
-"build": "CI= react-scripts build",
-
-```
-
-```sh
-npm install react-router-dom@6
-```
+A project from coding addict.
